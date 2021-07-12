@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_title_product">Product</string>
+    <string name="label_back"><![CDATA[<Back]]></string>
+    <string name="start_picking_your_treats">Start picking your treats</string>
+    <string name="label_detail">Detail</string>
+</resources>

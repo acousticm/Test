@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewDefault">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextViewBoldDefault">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextSmall" parent="TextViewDefault">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextMedium" parent="TextViewDefault">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextNormal" parent="TextViewDefault">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextLarge" parent="TextViewDefault">
+        <item name="android:textSize">20dp</item>
+    </style>
+
+
+    <style name="TextBoldSmall" parent="TextViewDefault">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextBoldMedium" parent="TextViewDefault">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextBoldNormal" parent="TextViewDefault">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextBoldLarge" parent="TextViewDefault">
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>
